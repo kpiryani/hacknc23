@@ -13,4 +13,4 @@ license: mit
 Check out the configuration reference at [https://huggingface.co/docs/hub/spaces-config-reference](https://huggingface.co/spaces/hacknc23/hacknc23)https://huggingface.co/spaces/hacknc23/hacknc23
 
 Team Lead: Krish Piryani
-Worked with Saketh Kamuju, Suchir Madap, Rohan Vanga
+Worked with Akhil Motiramani, Suchir Madap
