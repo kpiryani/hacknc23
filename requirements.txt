@@ -1,5 +1,5 @@
 gTTS==2.4.0
-langchain==0.0.325
+langchain==0.2.10
 openai==0.28.1
 PyMuPDF==1.23.5
 PyMuPDFb==1.23.5
